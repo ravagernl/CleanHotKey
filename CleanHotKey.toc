@@ -1,6 +1,6 @@
-## Interface: 30100
+## Interface: 50100
 ## Title: CleanHotKey
 ## Author: mrruben5
 ## Notes: Fixes the monochrome property on hotkey fonts, making them smoother.
-## Version: 30100.1
+## Version: 50100.1
 addon.lua
